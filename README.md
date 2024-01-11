@@ -1,8 +1,6 @@
 ### This is a repository for coursework
-# HTML, CSS and JavaScript
+### HTML, CSS and JavaScript
 
-- I'll also be learning Markdown
-- Linux bash scripting
-- Powershell scripting
+- Go to [http://www.redhook.github.io/red-hook/final] to view my final project page
 
 
